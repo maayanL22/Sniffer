@@ -1,7 +1,6 @@
 import socket
 import struct
 import textwrap
-#  import binascii
 
 TAB_1 = '\t - '
 TAB_2 = '\t\t - '
